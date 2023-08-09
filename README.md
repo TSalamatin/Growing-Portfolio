@@ -7,6 +7,6 @@ This is my current github portfolio of Projects that I have provided during my t
 
 Github: https://github.com/TSalamatin
 
-Email: TJSalamatin@gmail.com(mailto:TJSalamatin@gmail.com)
+Email: [TJSalamatin@gmail.com](mailto:TJSalamatin@gmail.com)
 
 ![Portfolio](https://user-images.githubusercontent.com/128180862/236632014-c430d5cb-1660-416c-ad83-b51e0baa37c2.png)
